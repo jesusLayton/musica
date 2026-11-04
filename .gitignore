@@ -1,0 +1,11 @@
+# dependencias
+node_modules/
+
+# plataforma Android generada por Capacitor (se regenera en cada build)
+android/
+
+# varios
+.DS_Store
+*.log
+.idea/
+.gradle/

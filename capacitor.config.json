@@ -1,0 +1,8 @@
+{
+  "appId": "com.jesus.teoriabajo",
+  "appName": "Teoria del Bajo",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": true
+  }
+}
